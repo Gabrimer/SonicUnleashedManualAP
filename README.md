@@ -2,7 +2,7 @@
 
 ## An APworld designed for the [Unleashed Recompiled](https://github.com/hedge-dev/UnleashedRecomp) project
 
-![][image1]
+![SonicUnleashedManualAPLogo](Images/image1.png)
 
 # **Description**
 
@@ -44,31 +44,31 @@ To make this Manual Archipelago work, we’re going to need a couple of things f
 
 First, we will replace our normal game’s save file with [Gustavo Graziano](https://gamebanana.com/members/4316615)’s [0% No Power Ups and No Upgrades](https://gamebanana.com/mods/download/585925#FileInfo_1427215) save file. To locate Unleashed Recomp’s save file folder, locate your computer’s AppData/Roaming folder (easily accessible by typing **Windows Key \+ R** and typing **%appdata%**)
 
-![][image2]
+![Screenshot1](Images/image8.png)
 
 After doing this, you should find a folder called **UnleashedRecomp**. This is where your game’s save file is located. **If you wanna keep any old save file you have,** **now would be the time to do a backup of the content’s inside this folder to somewhere else**.
 
-![][image3]  
+![Screenshot2](Images/image4.png)
 	  
 Now, find the contents inside the [**0\_save\_file\_no\_power\_ups\_and\_no\_upgrades.rar**](https://gamebanana.com/mods/download/585925#FileInfo_1427215) WinRar file, and paste them into the **UnleashedRecomp** folder, and consider this step done\!
 
-![][image4]
+![Screenshot3](Images/image6.png)
 
 ## **Step 2:** Installing the custom world
 
 Now, assuming you’ve already downloaded the .apworld file for our Manual Archipelago, it’s just a matter of installing it in our Archipelago directory. You can do this by simply opening the file, or dragging the .apworld file into **Archipelago/custom\_worlds** folder.
 
-![][image5]
+![Screenshot4](Images/image5.png)
 
 ## **Step 3:** Generating a .YAML
 
 Once the custom .apworld file is installed, we can actually use this to generate our .YAML file\! Simply open up your Archipelago Launcher, and find **Generate Template Options**.
 
-**![][image6]**
+![Screenshot5](Images/image7.png)
 
 It’ll generate a .yaml file of all your installed games inside the **Archipelago/Players/Templates** folder, but the one we’re looking for is this one: **Manual\_SonicUnleashed\_Gabrimer.yaml**
 
-**![][image7]**
+![Screenshot6](Images/image2.png)
 
 Now, place this .yaml file in the **Archipelago/Players** folder (the one folder before this one we’re in right now) and edit it to your heart's content\! Once that’s done, you’re ready to generate your multiworld session, assuming you have any other .yaml files you need for your intended playthrough.  
 To read about all the options you can change in the .YAML file, head over to the [**Options**](#options) page. **(P.S: The way the Options are currently designed, some settings might make this .apworld impossible to generate if you wanted to play this Manual AP solo, without any other multiworlds considered into generation)**
@@ -77,7 +77,7 @@ To read about all the options you can change in the .YAML file, head over to the
 
 If you did end up getting the [Universal Tracker](https://github.com/FarisTheAncient/Archipelago/releases), great\! I personally think it does a **HUGE** favour to the **Manual’s Client**, which is high-lighting what is accessible for the player to go and clear out location checks, by marking them in green, and also displaying how many locations they can clear in each category. Have a look\!
 
-![][image8]
+![Screenshot7](Images/image3.png)
 
 So how do you make this handy tool work? It’s really simple\! Just download the **tracker.apworld** file and install it into your Archipelago directory, just like we did to our Sonic Unleashed one. And that’s it\! When you run your Manual Client, things will be way more clear when playing. (specially if you have a lot of the [**Sanity Toggles**](#sanity-toggles) turned on)
 
