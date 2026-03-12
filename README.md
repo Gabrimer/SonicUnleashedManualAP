@@ -32,7 +32,7 @@ To make this Manual Archipelago work, we’re going to need a couple of things f
 
 * A working build of [Sonic Unleashed Recomp](https://github.com/hedge-dev/UnleashedRecomp)  
 * An [Archipelago Launcher](https://github.com/ArchipelagoMW/Archipelago/releases) (version preference of 0.6.6 or higher)  
-* The Manual Sonic Unleashed .apworld file  
+* The Manual Sonic Unleashed [.apworld](https://github.com/Gabrimer/SonicUnleashedManualAP/releases/tag/Builds) file  
 * A generated .YAML file for the Sonic Unleashed APWorld (look at the [**Generating a .YAML**](#step-3:-generating-a-.yaml) step to see how to make this file)  
 * A [0% Save File with Story Completed](https://gamebanana.com/mods/585925) (made possible by [Gustavo Graziano](https://gamebanana.com/members/4316615), so huge thanks to them\!)  
   * Make sure to download the [**0\_save\_file\_no\_power\_ups\_and\_no\_upgrades.rar**](https://gamebanana.com/mods/download/585925#FileInfo_1427215) version, as this is the one we want to make unlocking certain items Archipelago compatible, such as the Upgrade Shoes.  
