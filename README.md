@@ -56,7 +56,7 @@ Now, find the contents inside the [**0\_save\_file\_no\_power\_ups\_and\_no\_upg
 
 ## **Step 2:** Installing the custom world
 
-Now, assuming you’ve already downloaded the .apworld file for our Manual Archipelago, it’s just a matter of installing it in our Archipelago directory. You can do this by simply opening the file, or dragging the .apworld file into **Archipelago/custom\_worlds** folder.
+Now, assuming you’ve already downloaded the [.apworld](https://github.com/Gabrimer/SonicUnleashedManualAP/releases/tag/Builds) file for our Manual Archipelago, it’s just a matter of installing it in our Archipelago directory. You can do this by simply opening the file, or dragging the .apworld file into **Archipelago/custom\_worlds** folder.
 
 ![Screenshot4](Images/image5.png)
 
